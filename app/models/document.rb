@@ -1,6 +1,6 @@
 class Document < ApplicationRecord
     include PgSearch::Model
-    full_text_search :search_body, against: :body, using: {
-        tsearch: {any_word: true}
+    pg_search_scope :search_body, against: {title: 'A', body: 'B'}, using: {
+        tsearch: {any_word: true, dictionary: "german", prefix: true, tsvector_column: 'searchable'}
       }
 end

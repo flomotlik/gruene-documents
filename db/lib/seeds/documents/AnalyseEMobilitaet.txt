@@ -1,0 +1,108 @@
+ Analyse zu Autokauf in GR Sitzung 27.03.2023
+Zusammenfassung 1 Anforderungen 2 Pritsche Bauhof 2 Fahrzeug Wasserwerk 3 Finanzielles 4 Verfügbarkeit 6 Nachhaltigkeit und Unabhängigkeit 6
+Zusammenfassung
+Anhand der vorliegenden Fakten und Analyse können wir zeigen, dass ein Ankauf von Verbrennern anstatt E-Mobilität für den Einsatzzweck im Bauhof der Gemeinde Herzogenburg weder aufgrund der Anforderung noch finanziell Sinn macht. Für einen abschließenden Vergleich zum Ankauf eines Fahrzeugs im Wasserwerk fehlen uns noch einige Daten, wir gehen aber hier vom selben Ergebnis aus.
+Aufgrund der Anforderungen ergibt sich eine maximal notwendige Reichweite von <150 Kilometern im Bauhof. Diese sind mit modernen E-Pritschen problemlos zu erledigen. Alle weiteren Anforderungen wie Nutzlast werden durch E-Mobilität gleichwertig oder besser erfüllt.
+Die finanzielle Analyse der Lebenszeit zeigt, dass E-Mobilität hier die deutlich billigere Variante ist. Da geringere Kosten aber keine explizite Anforderung an E-Mobilität sind, sondern selbst bei etwas mehr Kosten dieser der Vorzug gegeben werden sollte, übererfüllen wir hier die Anforderungen.
+
+ Anforderungen
+Folgende Anforderung wurden für den Pritschenwagen des Bauhofs sowohl durch Analyse der Fahrtenbücher als auch Gespräche mit Mitarbeitern des Bauhofs als auch der Stadtgemeinde erstellt. Für das Wasserwerk liegen derzeit noch keine entsprechenden Daten vor, können aber nach Einsicht in Fahrtenbücher durchgerechnet werden.
+Pritsche Bauhof
+Die Hauptanforderung an dieses Fahrzeug stellt die wöchentliche Windelfahrt dar. Da diese einen Großteil des Herzogenburger Stadtgebiets betrifft, werden hier zwischen 90-110 km Durchschnitt, teilweise auch bis zu 150km am Tag gefahren. An anderen Wochentagen betragen die gefahrenen Kilometer weniger als 70km, meistens deutlich unter 50km.
+Aufgrund einer Analyse des Fahrtenbuchs seit März 2022 konnten wir hier Durchschnittswerte der täglich gefahrenen Kilometer im Detail analysieren. Wir konnten keine Tagesfahrt finden, die auch nur annähernd an die Reichweite aktueller Modelle im Rahmen der E-Mobilität herankommen. Entsprechende Modelle wie der Fiat E-Ducato haben eine Reichweite von 220km in der kleineren Version und können auch auf >300km Reichweite konfiguriert werden, mehr als ausreichend für die Anforderungen ds Bauhofs.
+Neben der Reichweite ist auch die Nutzlast ein wichtiger Faktor. Hier sind laut Herstellerangaben die gleichen Lasten als auch teilweise mehr Nutzlast möglich. Diese Anforderung sollte also durch E-Mobilität leicht erfüllt sein.
+Ein konkretes Problem bei E-Mobilität ist die geringere Reichweite bei sehr kalten Temperaturen und hoher Geschwindigkeit auf Autobahnfahrten. Durch Gespräche mit Mitarbeitern des Bauhofs als auch Analyse des Fahrtenbuch können wir aber zeigen, dass diese Anforderungen nicht bestehen. So wird das Fahrzeug fast ausschließlich für kurze Fahrten im Stadtgebiet genutzt bzw. beim Einsammeln der Windeln mit regelmäßigen Start/Stops betrieben. Hier ist E-Mobilität im Vorteil, da nicht nur kein Energieverbrauch, sofern das Auto steht, passiert, sondern durch die Rückgewinnung auch einiges an kinetischer Energie, die beim Anfahren entsteht, wieder gewonnen werden kann. Dies im Unterschied zum Verbrenner, der besonders bei hoch beladenen und kurzen Strecken viel Energie verliert, da die kinetische Energie des beladenen Fahrzeugs nicht zurückgewonnen werden kann.
+Die Annahme, dass nur kurze Distanzen mit vor allem niedriger Geschwindigkeit gefahren werden, konnten wir auch aufgrund des Verbrauchs der aktuellen Pritsche belegen. Laut Angaben im Fahrtenbuch kommt das Fahrzeug auf einen Verbrauch von <8 Litern pro 100km. Berechnet wurde dies, da sowohl die getankten Liter als auch der Kilometerstand im Fahrtenbuch nach einer Betankung eingetragen werden.. Dies liegt unter den Herstellerangaben auf 100km, etwas, das sehr ungewöhnlich ist und sich dadurch erklären lässt, dass hier eben nur kurze Distanzen mit niedriger Geschwindigkeit gefahren werden. Dies spricht deutlich für Elektro Mobilität, da keine Grenzen der Reichweiten der E-Mobilität erreicht werden.
+
+ Insgesamt ist die aktuelle Pritsche im Laufer der 8 Jahre seit Anschaffung knapp unter 100.000 km gefahren .Dies ergibt knapp 12.000km pro Jahr und deckt sich mit den Fahrten seit März 2022.
+Da sowohl am Bauhof als auch im Wasserwerk regelmäßig höheres Gewicht geladen werden muss, ergibt sich hier die Anforderung, dass damit auch keine Reduktion der Reichweite erfolgt. Dies wird durch Elektro Mobilität aufgrund der Rückgewinnung erreicht, da höheres Gewicht wenig Auswirkung auf die Reichweite hat wie vom ADAC in einer Studie nachgewiesen wurde1.
+Die kinetische Energie, die in die Beschleunigung eines beladenen Fahrzeugs investiert wird, kann zu einem großen Teil zurückgewonnen werden. Das Gewicht wirkt sich hier weniger aus, da einfach mehr Energie in die Beschleunigung investiert wird und dann aber auch mehr zurückkommt. Dies im Unterschied zu Verbrennern, die bei höherer Beladung deutlich mehr Energie verbrauchen, diese aber nicht zurückgewinnen können.
+Fahrzeug Wasserwerk
+Wir konnten aktuell noch, nach mehreren Anfragen, keinen Zugang zum Fahrtenbuch des Wasserwerks bekommen. Aktuelle Gespräche zum Einsatz des Fahrzeugs legen aber eine Nutzung nahe, die sich ebenfalls hauptsächlich aufs Ortsgebiet beschränkt und dadurch innerhalb der Reichweite moderner E-Modelle sein sollte.
+Aufbauten und Anhänger, die gegebenenfalls verwendet werden müssten, sollten auf ihren Einfluss auf die Modelle überprüft werden um eine objektive Entscheidung zu treffen.
+Hier bieten sich die bereits bestehenden Renault Kangoo Modelle an, die bereits seit einigen Jahren im Einsatz sind. Diese sollten in einer kurzen Testphase ausreichend Informationen zum Einsatz von E-Mobilität am Wasserwerk liefern können.
+Anekdotisch sind aus anderen Gemeinden Probleme mit E-Mobilität im Einsatz des Wasserwerks berichtet worden. Diese sollten erfragt und
+Vorschlag Peter: Anscheinend liegen Rückmeldungen anderer Gemeinden zu Problemen mit E-Mobilität bei Fahrzeugen des Wasserwerks vor. Wir haben beim Bürgermeister und Vizebürgermeister gefragt, um welche Probleme es sich dabei handelt und welche Anforderungen durch die Antriebsart eingeschränkt seien. Leider haben wir dazu keine Auskunft erhalten. Es liegt daher die Annahme nahe, dass keine konkreten Probleme bekannt sind und auch keine konkreten Anforderungen erhoben und verglichen wurden.
+Finanzielles
+Um die Kosten der Investition vergleichen zu können, wurde eine Kostenvergleichsrechung durchgeführt. Dabei wurde die Diesel-Variante des Fiat Ducato Pritschenfahrzeugs mit der
+1
+https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/tests/mehrverbrauch-elektroauto-anhaenger -fahrradtraeger/
+ 
+ elektrischen Variante Fiat E-Ducato verglichen. Dies soll keine Empfehlung für genau diese Marke und dieses Modell sein. Da der vorliegende Antrag des Ausschusses für Dienstleistungen und Bauwesen jedoch einen Fiat Ducato vorsieht, wurde der Einfachheit und Vergleichbarkeit halber der Vergleich auch mit demselben Fahrzeug in der E-Variante durchgeführt. Für die E-Variante leigen keine Angebote vor und es wurde daher der Listenpreis angenommen. In der Beschaffung ist daher von einem noch niedrigeren Preis des E-Modells auszugehen.
+Der Vergleich zeigt deutlich, dass das gleichwertige Modell mit am Ende seiner voraussichtlichen Nutzungsdauer mindestens als das Modell mit Diesel-Antrieb. Aus Finanzierungs-Sicht ist daher eindeutig dem E-Antrieb der Vorzug zu geben. Es besteht aber eine Anforderung daran dass der E-Antrieb auch die billigere Vareiante sein muss. Selbst bei leicht höheren Kosten des E-Antriebs wäre diesem aufgrund der damit einhergehenden weit besseren Nachhaltigkeit der Vorzug zu geben. Niedrigere Kosten sind hier eine Übererfüllung der Anforderungen.
+Durch zukünftige Investitionen in PV Anlagen können hier Stromkosten zusätzlich eingespart werden. Da die Fahrzeuge des Bauhofs nur bis durchschnittlich 14:30 im Einsatz sind ist eine Ladung durch PV Anlagen über das ganze Jahr möglich wodurch Kosten langfristig, besonders über eine gesamte Flotte hinweg, gesenkt werden können.
+Die durchgeführte Kostenvergleichsrechnung (Tabelle 1) bedient sich aller bekannten Durchschnittswerte. Die Erläuterungen der getroffenen Annahmen finden sich in der Tabelle und den zugehörigen Fußnoten. Die größte Unbekannte sind dabei die durchschnittlichen Wartungskosten. Hier wurde auf Erfahrungswerte aus Online-Datenbanken zurückgegriffen. Eine genauere Berechnung wäre durch eine Auswertung der Kostenstelle des Ist-Fahrzeugs möglich. Selbst, wenn die Wartungskosten ausgeblendet würden, wären die errechneten Kosten des E-Antriebs immer noch bei denen des Diesels. Die Wartungskosten sollte jedoch keinesfalls außer Acht gelassen werden, da ein E-Antrieb per Definition und Erfahrung weniger Wartungskosten verursacht (-40% laut Fiat beim Vergleich Ducato zu E-Ducato) und sollte mit den eigenen Erfahrungswerten der Gemeinde ausgewertet und erneut Berechnet werden
+Dies wird auch von Experten unterstützt, so zum Beispiel einem Interview2 mit Ostoja Matic, Gründer von Lucky Car:
+‘’’ Wenn man es hauptsächlich mit der Karosserie zu tun hat wie wir, ist es egal, ob das Auto einen Elektromotor hat oder einen Verbrenner. Was aber den mechanischen Teil betrifft, ist klar, da gibt es beim Elektroauto nichts zu tun. ‘’’
+2https://www.derstandard.at/story/2000145314383/lucky-car-gruender-matic-ich-wollte-viel-geld-verdie nen
+ E-Antrieb
+ € 10.000,- weniger kostet
+   
+ Tabelle 1: Kostenvergleichsrechnung Pritschenfahrzeug
+     Ducato Pritsche
+    E-Ducato Pritsche
+ Fixkosten
+ Anschaffungskosten
+€ 47 690,00 3
+€ 82 168,00 4
+Förderungen
+€-
+€ 13 000,00 5
+Nutzungsdauer Jahre 6
+15
+15
+Versicherung/Jahr 7
+€ 1 687,23
+€ 998,70
+Wartung/Jahr 8
+€ 1 596,00
+€ 957,60
+  Verbrauchskosten
+ Kilometerleistung/Jahr 9
+12 000 km
+12 000
+Diesel Liter/100km NEFZ 10
+9,5 l
+Strom kWh/100km WLTP 11
+33 kWh
+Diesel EUR/Liter 12
+€ 1,60
+Strom EUR/kWh 13
+€ 0,27
+Tankkosten/Jahr
+€ 1 824,00
+€-
+Stromkosten/Jahr
+€-
+€ 1 065,24
+  Gesamtkosten
+   € 124 298,45
+    € 114 491,10
+                 3 Preis laut Antrag des Ausschusses für Dienstleistungen und Bauwesen inklusive Finanzierungskosten
+4 Fiat Preisliste e-Ducato 01_22, Fahrgestell L2, 3.500kg, 47 kWh inkl. Zusatzkosten für Pritsche und geschätzte Finanzierungskosten von € 8.000,-
+5 Voraussetzung: Ökostrom-Bezug am Ladestandort, Bundesförderung € 8.000,-, Landesförderung € 5.000,-
+6 Nutzungsdauer aus Erfahrung des bisherigen Fahrzeugs.
+7 Angebote der Wiener Städtischen; Wegfall Motorbezogene Steuer bei E-Antrieb.
+8 Erfahrungswerte aus Online-Datenbanken von durchschnittlichen Wartungskosten; 40% weniger zu erwartende Kosten als Diesel-Variante laut Fiat.
+9 Erfahrungswerte aus dem aktuellen Fahrtenbuch des Bauhofs.
+10 Fiat Herstellerangabe.
+11 Fiat Herstellerangabe und Bestätigung im Test von Auto-Motor-Sport.
+12 Aktueller Dieselpreis per 19.03.2023.
+13 Aktueller Marktpreis per 19.03.2023.
+
+ Die vorhergehende Analyse bezieht sich hier auf den zu kaufenden Pritschenwagen, eine Berechnung der Finanzierungskosten auf das Fahrzeug für das Wasserwerk sollte aber unserer Meinung nach zu ähnlichen Ergebnissen kommen. Vor allem aufgrund von Förderungen, aber nicht nur, wird der preisliche Unterschied auf die Lebenszeit gerechnet hier immer kompetitiv für die E-Mobilität sein. Und nochmal angemerkt ist wichtig zu betonen, dass ein preislicher Vorteil keine Anforderung bei der Anschaffung ist, sondern ein zusätzlicher positiver Faktor.
+Verfügbarkeit
+Laut ... wurde die Diesel-Variante bereits beim Händler in St. Pölten reserviert und ist damit sofort verfügbar.
+Nach unserer Recherche zur Verfügbarkeit des E-Modells ergibt sich eine mögliche Lieferzeit von 6-12 Monaten (Centro Automobile St. Pölten: 6-12 Monate; Autohaus Partsch Wiener Neustadt: 9 Monate).
+Die sofortige Verfügbarkeit des Diesel-Fahrzeugs ist jedoch keineswegs ein valides Argument für seine Beschaffung auf seine volle Nutzungsdauer. Aus ökologischer Sicht ist der dadurch entstehende langfristige Schaden über die nächsten 15 Jahre hinweg unbedingt hoch zu gewichten. Ebenso aus wirtschaftlicher Sicht sollte und kann die Zeit jedenfalls überbrückt werden: Es wird dadurch keinesfalls teurer als die langfristige Beschaffung der Diesel-Variante!
+Mögliche Varianten zur Überbrückung sind:
+● Beschaffung des reservierten Diesel-Fahrzeugs im Operative Leasing für 12 oder 24
+Monate und anschließend Umstieg auf E-Variante (Konditionen müssten noch
+angefragt werden).
+● Beschaffung eines Gebrauchtfahrzeugs mit mangelfreiem Prüfbericht bis 2024 (ca. €
+10.000 und Weiterverkauf in einem Jahr)14.
+Nachhaltigkeit und Unabhängigkeit
+E-Mobilität hat einen weiteren langfristigen Vorteil in Bezug auf Nachhaltigkeit und Unabhängigkeit. Durch Ausbau von PV Anlagen auf Dächern von Bauhof, Wasserwerk und weiteren öffentlichen Gebäuden können wir den verwendeten Strom direkt und lokal erzeugen und so sowohl den langfristigen Preis des Betriebs senken als auch die Unabhängigkeit von Lieferanten sicherstellen. Im Unterschied zu E-Fuels, die zwar Verbrenner CO2 schonender machen könnten, aber wieder eine Abhängigkeit erzeugen, da diese E-Fuels nicht lokal hergestellt werden können und auch weit weniger effizient sind. Dies ist vor allem in Krisensituationen wichtig, da wir dadurch Fahrzeuge auch betreiben können falls Probleme in der Stromversorgung auftreten.
+14 z.B.:
+https://www.willhaben.at/iad/gebrauchtwagen/d/nutzfahrzeuge/fiat-ducato-doka-2-3-diesel-pickup-prits che-659352501
+    
