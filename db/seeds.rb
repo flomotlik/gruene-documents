@@ -8,7 +8,7 @@
 
 Document.create([{body: "Lorem ipsum"}, {body: "Dolor sit"}])
 
-50.times do |i|
+1.times do |i|
   Dir["db/lib/seeds/documents/*.txt"].each do |d|
     Document.create(body: File.open(d).read, title: File.basename(d))
   end
