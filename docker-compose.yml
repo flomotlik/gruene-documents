@@ -1,14 +1,41 @@
 version: '3.7'
 services:
-  tika:
-    build: ./
-    working_dir: /app
-    volumes:
-      - $PWD:/app
+  # tika:
+  #   build: ./
+  #   working_dir: /app
+  #   volumes:
+  #     - $PWD:/app
   postgres:
-    image: postgres
+    image: postgres:13.11
     restart: always
     environment:
       POSTGRES_PASSWORD: example
+      POSTGRES_HOST_AUTH_METHOD: trust
     ports:
       - 5432:5432
+  web:
+    build:
+      dockerfile: Dockerfile.rails
+    command: bash -c "rm -f tmp/pids/server.pid && bundle exec rails s -p 3000 -b '0.0.0.0'"
+    volumes:
+      - .:/app
+    environment:
+      DATABASE_URL: postgres://postgres:example@postgres
+    ports:
+      - "3000:3000"
+    depends_on:
+      - postgres
+    links:
+      - postgres
+  que:
+    build:
+      dockerfile: Dockerfile.rails
+    command: bash -c "bundle exec que -q default -l debug"
+    volumes:
+      - .:/app
+    environment:
+      DATABASE_URL: postgres://postgres:example@postgres
+    depends_on:
+      - postgres
+    links:
+      - postgres

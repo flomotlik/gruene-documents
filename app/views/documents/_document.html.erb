@@ -1,0 +1,10 @@
+<div id="<%= dom_id document %>">
+<h2><%=document.title %></h2>
+<p><%=document.file.filename %></p>
+<pre><%=document.body[0,1000] %></pre>
+<% if document.file.image? %>
+  <img src="<%= url_for(document.file)%>" />
+<% else %>
+  <a href="<%= url_for(document.file)%>">Download</a>
+<% end %>
+</div>
