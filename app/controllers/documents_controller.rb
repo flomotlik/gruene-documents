@@ -22,6 +22,12 @@ class DocumentsController < ApplicationController
   # POST /documents or /documents.json
   def create
     @document = Document.new(document_params)
+    logger.info(@document.title)
+    if @document.title.blank?
+      @document.title = @document.file.filename
+    end
+
+
 
     respond_to do |format|
       if @document.save
@@ -59,7 +65,6 @@ class DocumentsController < ApplicationController
 
   def search
     @documents = Document.search_body(params[:search_query])
-    logger.debug(@documents)
   end
 
   private
@@ -70,7 +75,7 @@ class DocumentsController < ApplicationController
 
     # Only allow a list of trusted parameters through.
     def document_params
-      params.fetch(:document, {})
+      params.require(:document).permit(:title, :file)
     end
 
 end

@@ -1,7 +1,7 @@
 <p style="color: green"><%= notice %></p>
 
 <h1>Documents</h1>
-
+<%= link_to "Search Documents", search_path %>
 <div id="documents">
   <% @documents.each do |document| %>
     <h2><%= document.title %></h2>
@@ -12,3 +12,4 @@
 </div>
 
 <%= link_to "New document", new_document_path %>
+

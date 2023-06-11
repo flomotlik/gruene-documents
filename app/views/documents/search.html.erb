@@ -1,6 +1,12 @@
 <p style="color: green"><%= notice %></p>
 
-<h1>Documents</h1>
+<h1>Documents Search</h1>
+
+<%= form_with(url: search_path, method: :get) do |f| %>
+    <%= f.text_field :search_query, value: params[:search_query] %>
+    <%= f.submit :Search %>
+  <% end %>
+
 
 <div id="documents">
   <% @documents.each do |document| %>
@@ -12,3 +18,4 @@
 </div>
 
 <%= link_to "New document", new_document_path %>
+<%= link_to "All Documents", documents_path %>

@@ -22,6 +22,7 @@ RUN set -eux \
         ttf-mscorefonts-installer \
         wget \
         cabextract \
+        ruby \
     && apt-get clean -y \
     && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 
