@@ -1,4 +1,5 @@
 class DocumentsController < ApplicationController
+  before_action :authenticate_user!
   before_action :set_document, only: %i[ show edit update destroy ]
 
   # GET /documents or /documents.json
@@ -22,7 +23,9 @@ class DocumentsController < ApplicationController
   # POST /documents or /documents.json
   def create
     @document = Document.new(document_params)
+    @document.user_id = current_user.id
     logger.info(@document.title)
+    @document.body=""
     if @document.title.blank?
       @document.title = @document.file.filename
     end

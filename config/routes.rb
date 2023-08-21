@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  devise_for :users
   get '/search', to: 'documents#search'
   resources :documents
   root 'documents#search'
@@ -6,4 +7,5 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   # root "articles#index"
+#   get "up" => "rails/health#show", as: :rails_health_check
 end

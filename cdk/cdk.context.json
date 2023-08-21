@@ -1,0 +1,14 @@
+{
+  "acknowledged-issue-numbers": [
+    25714
+  ],
+  "availability-zones:account=343826926861:region=eu-central-1": [
+    "eu-central-1a",
+    "eu-central-1b",
+    "eu-central-1c"
+  ],
+  "hosted-zone:account=343826926861:domainName=theserverlessway.com.:region=eu-central-1": {
+    "Id": "/hostedzone/Z3RGV4GYUT2GEW",
+    "Name": "theserverlessway.com."
+  }
+}

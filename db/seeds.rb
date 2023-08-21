@@ -6,10 +6,20 @@
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
 
-Document.create([{body: "Lorem ipsum"}, {body: "Dolor sit"}])
+require 'securerandom'
 
-1.times do |i|
-  Dir["db/lib/seeds/documents/*.txt"].each do |d|
-    Document.create(body: File.open(d).read, title: File.basename(d))
+["florian.motlik@gruene.at", "suleyman.zorba@gruene.at"].each do |e|
+  unless User.exists?(email: e)
+    uuid = SecureRandom.uuid
+    User.create!(email: e, password: uuid, password_confirmation: uuid)
   end
+end
+
+user = User.first
+
+Dir["db/lib/seeds/documents/*"].each do |d|
+  @document = Document.new(body: "", title: File.basename(d))
+  @document.file.attach(io: File.open(d), filename: File.basename(d))
+  @document.user_id = user.id
+  @document.save
 end
